@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @clarafru
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Computer Vision
+- 👀 I’m interested in Machine Learning for Cognitive Science
 
 
 <!---
